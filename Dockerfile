@@ -2,7 +2,7 @@ FROM mono:4.0.1
 
 MAINTAINER zeng yinghao <alienblog@outlook.com>
 
-ENV DNX_VERSION=1.0.0-beta4
+ENV DNX_VERSION=1.0.0-beta6
 ENV DNX_USER_HOME /opt/dnx
 ENV NODE_VERSION 0.10.39
 ENV NPM_VERSION 2.11.3
